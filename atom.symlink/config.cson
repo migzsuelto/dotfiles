@@ -15,14 +15,15 @@
       "tmp"
       "vendor"
     ]
+    openEmptyEditorOnStart: false
     telemetryConsent: "no"
     themes: [
-      "unity-ui"
-      "glacier-syntax"
+      "spacegray-eighties-ui"
+      "twilight"
     ]
   editor:
     fontFamily: "Menlo"
-    fontSize: 15
+    fontSize: 12
     invisibles: {}
     showIndentGuide: true
     softWrapAtPreferredLineLength: true
