@@ -50,6 +50,7 @@ cask 'sketch'
 cask 'spotify'
 cask 'spotify-notifications'
 cask 'skype'
+cask 'iterm2'
 
 # cask 'adium'
 # cask 'garmin-express'
