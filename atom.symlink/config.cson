@@ -4,6 +4,10 @@
       "background-tips"
       "exception-reporting"
       "metrics"
+      "react-es6-snippets"
+      "linter-eslint"
+      "linter-ui-default"
+      "linter"
     ]
     followSymlinks: false
     hideGitIgnoredFiles: true
@@ -31,6 +35,9 @@
     panelDisplayMode: "closed"
   "linter-eslint":
     useGlobalEslint: true
+  "linter-ui-default":
+    panelHeight: 51
+    showPanel: true
   "release-notes":
     viewedVersion: "0.89.0"
   "spell-check":
